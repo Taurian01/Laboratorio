@@ -1,4 +1,4 @@
-lista = [100,2,3,4,5,9]
+lista = [1,2,3,4,5,9]
 #stampa
 for x in lista:
     print (x)
